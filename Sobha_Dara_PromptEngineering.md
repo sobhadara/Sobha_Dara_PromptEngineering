@@ -1,6 +1,6 @@
 # Prompt Engineering Portfolio
-Name: [Your Name]
-Date: [Submission Date]
+Name: Sobha Dara
+Date: 03 June, 2026
 LLM Used: Gemini 1.5 Pro (Testing Parameters: Temperature: 0.4, Top-P: 0.95)
 
 ## Part 1: Prompt Design & Iteration
