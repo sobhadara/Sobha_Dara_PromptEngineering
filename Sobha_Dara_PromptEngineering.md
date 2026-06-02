@@ -1,7 +1,12 @@
 # Prompt Engineering Portfolio
 Name: Sobha Dara
+
 Date: 03 June, 2026
+
 LLM Used: Gemini 1.5 Pro (Testing Parameters: Temperature: 0.4, Top-P: 0.95)
+
+---
+
 
 ## Part 1: Prompt Design & Iteration
 
@@ -412,8 +417,8 @@ The addition of the protective constraint forced the model to shift from a polit
 
 #### 3. Analysis & Mitigation Strategy
 
-**Why hallucinations are problematic: ** Hallucinations are deeply problematic in professional environments because they pass off false information with high linguistic confidence, which can easily mislead users who are utilizing the model for research, programming, or decision-making. When a model creates plausible-sounding data, it undermines the reliability of the entire system and risks spreading harmful misinformation. 
-**One strategy to reduce hallucinations: ** One effective strategy to reduce hallucinations is to integrate a Retrieval-Augmented Generation (RAG) framework, which anchors the model's responses to verified external documents rather than relying solely on the static patterns stored in its internal training weights.
+**Why hallucinations are problematic:** Hallucinations are deeply problematic in professional environments because they pass off false information with high linguistic confidence, which can easily mislead users who are utilizing the model for research, programming, or decision-making. When a model creates plausible-sounding data, it undermines the reliability of the entire system and risks spreading harmful misinformation. 
+**One strategy to reduce hallucinations:** One effective strategy to reduce hallucinations is to integrate a Retrieval-Augmented Generation (RAG) framework, which anchors the model's responses to verified external documents rather than relying solely on the static patterns stored in its internal training weights.
 
 ---
 
